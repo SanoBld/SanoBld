@@ -1,15 +1,33 @@
 # SanoBld
 
-Multiplatform developer focusing on data-centric and utility tools across Mobile, Desktop, and Web.
+multiplatform developer focusing on data-centric and utility tools across mobile, desktop, and web.
 
 ---
 
-### 🚀 Active Projects
+### active projects
 
-* **LastStats (App):** Flutter & Dart application for real-time music analytics. `<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">` `<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">`
+* **LastStats (App):** Flutter & Dart application for real-time music analytics.
+* **LastStats (Web):** Vanilla JS (ES6+) Progressive Web App alternative.
+* **Veloce:** Flutter application focused on esports match tracking and detailed scoreboard layouts.
+* **Jitter:** Flutter network utility for internet speed diagnostics and location-based configurations.
 
-* **LastStats (Web):** Vanilla JS (ES6+) Progressive Web App alternative. `<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">` `<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA">`
+---
 
-* **Veloce:** Flutter application focused on esports match tracking and detailed scoreboard layouts. `<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">`
+### stack
 
-* **Jitter:** Flutter network utility for internet speed diagnostics and location-based configurations. `<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">`
+#### Mobile / Multiplatform
+![](https://img.shields.io/badge/Dart-D32F2F?style=for-the-badge&logo=dart&logoColor=white) ![](https://img.shields.io/badge/Flutter-D32F2F?style=for-the-badge&logo=flutter&logoColor=white) ![](https://img.shields.io/badge/C++-D32F2F?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### Web / Frontend
+![](https://img.shields.io/badge/JavaScript-D32F2F?style=for-the-badge&logo=javascript&logoColor=white)
+
+---
+
+### activity
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=SanoBld&bg_color=00000000&color=d9d3cb&line=d32f2f&point=ffffff&area=true&area_color=d32f2f&title_color=ffffff&hide_border=true&custom_title=Contribution%20Graph)
+
+---
+
+#### status
+![](https://komarev.com/ghvc/?username=SanoBld&color=d32f2f&style=for-the-badge&label=Profile+views)

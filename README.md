@@ -26,8 +26,3 @@ multiplatform developer focusing on data-centric and utility tools across mobile
 ### activity
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=SanoBld&bg_color=00000000&color=ffffff&line=273343&point=D32F2F&area=true&area_color=273343&title_color=ffffff&hide_border=true&custom_title=Contribution%20Graph)
-
----
-
-#### status
-![](https://komarev.com/ghvc/?username=SanoBld&color=273343&style=for-the-badge&label=Profile+views)

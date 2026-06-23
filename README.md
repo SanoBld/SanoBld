@@ -8,7 +8,6 @@ multiplatform developer focusing on data-centric and utility tools across mobile
 
 * **LastStats (App):** Flutter & Dart application for real-time music analytics.
 * **LastStats (Web):** Vanilla JS (ES6+) Progressive Web App alternative.
-* **Veloce:** Flutter application focused on esports match tracking and detailed scoreboard layouts.
 * **Jitter:** Flutter network utility for internet speed diagnostics and location-based configurations.
 
 ---
